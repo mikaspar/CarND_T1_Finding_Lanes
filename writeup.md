@@ -16,8 +16,7 @@ My pipeline consits of following steps:
 
 ## Results
 
-The designed pipeline works well, but it is a sufficient method for the easiest cases only. A deeper development of the pipeline is necessary for more general usage of this method. 
-The pipeline was tested exclusivelly on the challenge video. The results show shortcomings discussed in the next chapter.
+The designed pipeline works well, but it is a sufficient method for the easiest cases only. A deeper development of the pipeline is necessary for more general usage of this method. The pipeline was tested successfully on solidWhiteRight and solidYellowLeft videos. The results on the challenge video show shortcomings discussed in the next chapter.
 
 ## Shortcomings
 
